@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/2SRnprk/bash-shell-icon.jpg" width="500px" height="300px">
+<img src="https://i.ibb.co/2SRnprk/bash-shell-icon.jpg" width="300px" height="300px">
 </p>
 
 
